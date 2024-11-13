@@ -26,13 +26,13 @@ To get started with the Password Generator, follow these steps:
 
 1. Clone the repository:
  
-git clone https://github.com/brianmuwaya/Password-Generator.git
+- git clone https://github.com/brianmuwaya/Password-Generator.git
 
-cd Password-Generator
+- cd Password-Generator
 
 2. Run the program:
 
-python password_generator.py
+- python password_generator.py
 
 
 
