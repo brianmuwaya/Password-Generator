@@ -1,13 +1,18 @@
 <h1> Password Generator 🔐</h1>
-A simple Python-based password generator that creates strong, secure passwords to help keep your accounts safe.
+A simple password generator script written in Python that creates strong, random passwords using letters, numbers, and special characters..
 <br/>
+
+<h2> Overview 📋</h2>
+This project is a basic Python program that generates a random password of customizable length. It combines uppercase and lowercase letters, digits, and special characters to ensure the generated password is secure.
+
+<br/>
+
 
 <h2>Features ✨</h2>
 
-- Generates strong passwords with a mix of uppercase, lowercase, numbers, and special characters.
-
-- Allows you to customize password length and character options.
-- Simple, easy-to-use command-line interface.
+- Generates a password of any specified length.
+- Includes uppercase letters, lowercase letters, numbers, and special characters for strong security.
+- Lightweight and easy to use from the command line.
 <br/>
 
 
