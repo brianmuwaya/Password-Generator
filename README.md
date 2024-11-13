@@ -63,7 +63,7 @@ Here are a few potential next steps for this project:
 
 <h2>About Me 📬</h2>
 
-Developed by Brian Muwaya, this project reflects my dedication to writing clean, efficient, and reusable code. Please feel free to explore my other projects on GitHub and reach out if you have questions!
+Developed by Brian, this project reflects my dedication to writing clean, efficient, and reusable code. Please feel free to explore my other projects on GitHub and reach out if you have questions!
 
 </p>
 
