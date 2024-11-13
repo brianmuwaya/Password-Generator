@@ -1,5 +1,5 @@
 <h1> Password Generator 🔐</h1>
-This project is a Python-based **Password Generator** that creates secure, random passwords using a mix of uppercase and lowercase letters, numbers, and special characters. It’s an ideal demonstration of efficient Python code and shows my ability to design simple yet functional command-line applications.
+This project is a Python-based Password Generator that creates secure, random passwords using a mix of uppercase and lowercase letters, numbers, and special characters. It’s an ideal demonstration of efficient Python code and shows my ability to design simple yet functional command-line applications.
 <br/>
 
 <h2>Project Overview 📋</h2>
