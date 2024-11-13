@@ -29,21 +29,41 @@ When you run the program, it will output a randomly generated password, for exam
 
 
 
-
-<h2>Installation 🛠️</h2>
+<h2>Running the Project 🚀</h2>
 To get started with the Password Generator, follow these steps:
 
 1. Clone the repository:
  
-- git clone https://github.com/brianmuwaya/Password-Generator.git
+ - git clone https://github.com/brianmuwaya/Password-Generator.git
 
-- cd Password-Generator
+ - cd Password-Generator
 
 2. Run the program:
 
 - python password_generator.py
 
+3. The program will output a secure, randomly generated password based on the specified length.
 
+
+<h2>Technical Skills Demonstrated 🛠️</h2>
+
+- Python Scripting: Writing efficient, modular, and reusable Python code.
+- Randomization and Security: Implementing secure password generation techniques using random.
+- Command-Line Interface: Building a script that is straightforward to run and adaptable to various use cases
+
+
+<h2>Potential Improvements 🚀</h2>
+
+Here are a few potential next steps for this project:
+
+1. GUI with Tkinter: Adding a graphical interface for non-technical users.
+2. Password Strength Customization: Allowing users to choose character types (letters, numbers, symbols) and define their own rules.
+3. File Output Option: Enabling users to save generated passwords to a file.
+
+
+<h2>About Me 📬</h2>
+
+Developed by Brian Muwaya, this project reflects my dedication to writing clean, efficient, and reusable code. Please feel free to explore my other projects on GitHub and reach out if you have questions!
 
 </p>
 
